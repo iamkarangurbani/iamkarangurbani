@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamkarangurbani
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
+- 👀 I majored in Economics
+- 🌱 I’m currently learning Data Science skills with use of Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
